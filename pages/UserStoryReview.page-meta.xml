@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>39.0</apiVersion>
+    <availableInTouch>false</availableInTouch>
+    <confirmationTokenRequired>false</confirmationTokenRequired>
+    <description>Review page for the User Story</description>
+    <label>User Story Review</label>
+    <packageVersions>
+        <majorNumber>7</majorNumber>
+        <minorNumber>1</minorNumber>
+        <namespace>copado</namespace>
+    </packageVersions>
+</ApexPage>
