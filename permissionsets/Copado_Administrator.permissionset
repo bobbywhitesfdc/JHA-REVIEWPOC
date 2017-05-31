@@ -5013,6 +5013,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>copado__User_Story__c.Code_Review_Completed__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>copado__User_Story__c.CommitCount__c</field>
         <readable>true</readable>
@@ -5055,6 +5060,16 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>copado__User_Story__c.OverrideApexCoverageThreshold__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>copado__User_Story__c.REM_Review_Completed__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>copado__User_Story__c.Solution_Review_Completed__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
